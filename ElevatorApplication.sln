@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorService", "ElevatorService\ElevatorService.csproj", "{887A13B6-B61A-4737-AE6C-43E2A0364F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorService.Tests", "ElevatorService.Tests\ElevatorService.Tests.csproj", "{B9542EDA-AFDC-4490-A981-51DD85A04E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{887A13B6-B61A-4737-AE6C-43E2A0364F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887A13B6-B61A-4737-AE6C-43E2A0364F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887A13B6-B61A-4737-AE6C-43E2A0364F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887A13B6-B61A-4737-AE6C-43E2A0364F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9542EDA-AFDC-4490-A981-51DD85A04E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9542EDA-AFDC-4490-A981-51DD85A04E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9542EDA-AFDC-4490-A981-51DD85A04E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9542EDA-AFDC-4490-A981-51DD85A04E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
